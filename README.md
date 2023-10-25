@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NadithSamaranayake
 - 👀 I’m interested in all sorts of Tech Stuff
-- 🌱 I’m currently learning a bit of web designing
+- 🌱 I’m currently learning on UI/UX and application development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me -- well here's my email:- nadith.jsamaranayake@gmail.com
 
